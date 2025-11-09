@@ -1,3 +1,5 @@
+# Qurat_Portfolio
+Interactive portfolio built using React, Tailwind, and modern web design
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
